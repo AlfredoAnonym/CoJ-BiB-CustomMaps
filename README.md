@@ -6,3 +6,5 @@ Installation:
 
 - Download the code, and put the MapsNet folder to Call of Juarez Bound in Blood / CoJ2 / Data folder. If you have MapsNet folder already, it will prompt you to swap it / paste some existing files. Just do that
 - You are good to go.
+
+Selections-Package folder is not for players, it's for the custom installer - however if you have ChromED Editor, feel free to install it. Put it to CoJ2 / Data folder.
